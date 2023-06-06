@@ -7,7 +7,7 @@ helmDefaults:
   timeout: 600
 
 environments:
-  default:
+  default
     values:
       # The devstack label for creating the ephemral infra
       - devstack_label: awesome-devstack
